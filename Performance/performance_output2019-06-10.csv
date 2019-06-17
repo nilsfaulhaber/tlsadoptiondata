@@ -1,4 +1,4 @@
-Asn;Holder;DnsLookupTimer;TimeOfMeasurement;Url;Path;Ip;Port;ConnecitonEstablishmentTime;HttpResponse;Protocol;TcpHandshakeTimeOptional;Error
+Asn;Holder;DnsLookupTimer;TimeOfMeasurement;Url;Path;Ip;Port;ConnectionEstablishmentTime;HttpResponse;Protocol;TcpHandshakeTimeOptional;Error
 13335;CLOUDFLARENET - Cloudflare;0.836;1560190264;mediafire.com;;131.159.0.2;443;71.607;301;TCP/TLS1.2;0.377;
 13335;CLOUDFLARENET - Cloudflare;0.684;1560190264;mediafire.com;;131.159.0.2;443;47.607;301;TCP/TLS1.3;0.458;
 13335;CLOUDFLARENET - Cloudflare;0.645;1560190264;discordapp.com;;131.159.0.2;443;264.731;200;TCP/TLS1.2;0.445;

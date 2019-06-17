@@ -1,4 +1,4 @@
-Asn;Holder;DnsLookupTimer;TimeOfMeasurement;Url;Path;Ip;Port;ConnecitonEstablishmentTime;HttpResponse;Protocol;TcpHandshakeTimeOptional;Error
+Asn;Holder;DnsLookupTimer;TimeOfMeasurement;Url;Path;Ip;Port;ConnectionEstablishmentTime;HttpResponse;Protocol;TcpHandshakeTimeOptional;Error
 13335;CLOUDFLARENET - Cloudflare;0.898;1560353404;thepiratebay.org;;131.159.0.2;443;58.385;200;TCP/TLS1.2;0.659;
 13335;CLOUDFLARENET - Cloudflare;0.648;1560353404;thepiratebay.org;;131.159.0.2;443;54.097;200;TCP/TLS1.3;0.439;
 13335;CLOUDFLARENET - Cloudflare;0.550;1560353405;chaturbate.com;;131.159.0.2;443;72.574;200;TCP/TLS1.2;0.402;
