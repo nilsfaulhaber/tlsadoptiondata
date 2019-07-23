@@ -1,0 +1,2 @@
+            mycsvfile.write("Asn;Holder;DnsLookupTime;TimeOfMeasurement;Url;Path;Ip;Port;ConnectionEstablishmentTime;HttpResponse;Protocol;TcpHandshakeTimeOptional;Error\n")
+            limit = 10 if value > 10 else value
